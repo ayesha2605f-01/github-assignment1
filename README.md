@@ -13,4 +13,4 @@ A simple responsive website about water bottles.
 HTML, CSS, Bootstrap, JavaScript, jQuery
 
 ## How to run
-Download the project and open index.html in a browser.
+Download the project and open index.html in a browser.made for te github class assignment.
